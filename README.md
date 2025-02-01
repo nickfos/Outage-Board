@@ -8,4 +8,4 @@ A bottom of the barrel but functional Outage Board in C#/HTML/CSS/Javascript
 
 2) Manually create an empty file in *`C:\inetpub\wwwroot\data.csv`*
 
-3)Start the site in IIS
+3) Start the site in IIS
