@@ -1,6 +1,6 @@
 # Outage-Board
-A very poorly written-and-littered-with-exposition bottom of the barrel outage board in C#/HTML/CSS/Javascript.
-Worked out roughly how to put this together as a POC a few (maybe 7?) years ago, kind of for my own personal use/interest.
+A very poorly written-and-littered-with-exposition bottom of the barrel outage board in C#/HTML/CSS/Javascript.  
+Roughly to put this together as a POC a few (maybe 7?) years ago, kind of for my own personal use/interest and to try to do a bit of C#/ASP.
 
 ![Screenshot](/assets/images/screenshot.png "fisher price outageboard")
 
